@@ -28,7 +28,7 @@ Run the main script:
 
 bash
 Copy code
-python yawn_detection.py
+python main.py
 Ensure your webcam is connected and focused on your face.
 
 The program will open a live feed displaying the webcam output.
